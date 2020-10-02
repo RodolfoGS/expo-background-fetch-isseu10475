@@ -1,0 +1,12 @@
+{
+  "name": "TestBackgroundFetch",
+  "displayName": "TestBackgroundFetch",
+  "expo": {
+    "name": "TestBackgroundFetch",
+    "slug": "TestBackgroundFetch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
